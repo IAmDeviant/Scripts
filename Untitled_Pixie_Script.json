@@ -1,0 +1,8 @@
+[{"id":"chef"},
+{
+    "id": "pixie",
+    "name": "Pixie",
+    "team": "townsfolk",
+    "ability": "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
+  }
+  ,{"id":"balloonist"},{"id":"dreamer"},{"id":"fortune_teller"},{"id":"town_crier"},{"id":"flowergirl"},{"id":"lycanthrope"},{"id":"gambler"},{"id":"philosopher"},{"id":"cannibal"},{"id":"ravenkeeper"},{"id":"acrobat"},{"id":"mutant"},{"id":"drunk"},{"id":"sweetheart"},{"id":"barber"},{"id":"cerenovus"},{"id":"pit-hag"},{"id":"assassin"},{"id":"godfather"},{"id":"fang_gu"},{"id":"imp"},{"id":"vigormortis"},{"id":"lil_monsta"},{"id":"apprentice"},{"id":"barista"},{"id":"bone_collector"},{"id":"bureaucrat"},{"id":"deviant"}]
